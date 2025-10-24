@@ -1,0 +1,29 @@
+# Core Dependencies
+feedparser==6.0.12
+pandas==2.2.2
+numpy==2.0.2
+
+# Tokenization
+tiktoken==0.12.0
+
+# Embeddings & Transformers
+sentence-transformers==5.1.1
+torch>=2.0.0
+
+# Vector Database
+chromadb==1.2.1
+
+# LangChain
+langchain==0.3.27
+langchain-community==0.3.31
+langchain-text-splitters==0.3.11
+langchain-core>=0.3.72
+
+# Additional Dependencies
+pydantic==2.11.10
+tqdm==4.67.1
+python-dotenv==1.1.1
+
+# Optional (for notebooks)
+jupyter>=1.0.0
+ipykernel>=6.0.0
