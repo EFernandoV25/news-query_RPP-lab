@@ -109,16 +109,10 @@ RSS Feed → Tokenización → Embeddings → ChromaDB → Retriever
 ```
 rpp-news-retrieval/
 │
-├── Task1_RPP_Retrieval.ipynb    # Notebook tutorial completo
-├── rpp_news_retrieval.py         # Script principal
+├── news-query_RPP-lab.ipynb    # Notebook tutorial completo
 ├── requirements.txt              # Dependencias
 ├── README.md                     # Documentación
-│
-├── chroma_rpp/                   # Base de datos vectorial (auto-generada)
-│   └── rpp_news/
-│
-└── examples/                     # Ejemplos de uso
-    └── query_examples.py
+
 ```
 
 ## 🔍 Ejemplos de Consultas
